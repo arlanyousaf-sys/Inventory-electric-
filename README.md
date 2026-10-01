@@ -1,4 +1,4 @@
-# Electrical Equipments — Tehzeeb P.W.D
+# Electrical Equipments — Tehzeeb G9 
 
 This is a standalone Progressive Web App (PWA).
 
