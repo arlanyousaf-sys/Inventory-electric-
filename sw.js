@@ -1,4 +1,4 @@
-const CACHE_NAME = "electrical-equipments-pwa-v3";
+const CACHE_NAME = "electrical-equipments-pwa-v5";
 const APP_SHELL = [
   "./",
   "./index.html",
